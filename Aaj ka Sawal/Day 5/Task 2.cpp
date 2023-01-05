@@ -2,9 +2,8 @@
 // https://practice.geeksforgeeks.org/problems/replace-all-0s-with-5/1
 // Date: 05-01-2023
 
-// Time: O(K)
-// Space: O(K) 
-// Here K is number of digits
+// Time: O(logK)
+// Space: O(1) 
 
 int numberOfDigits(int n) {
     // Returns nnumber of digits
