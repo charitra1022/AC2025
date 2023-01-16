@@ -1,5 +1,5 @@
 // Day 16
-// Task 1: https://leetcode.com/problems/first-bad-version/
+// Task 1: https://leetcode.com/problems/guess-number-higher-or-lower/description/
 // Date: 16-01-2023
 
 // Time Complexity: O(logN)
