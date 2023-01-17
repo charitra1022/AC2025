@@ -1,5 +1,5 @@
 // Day 16
-// Task 1: https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/
+// Task 2: https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/
 // Date: 16-01-2023
 
 // Time Complexity: O(logN)
