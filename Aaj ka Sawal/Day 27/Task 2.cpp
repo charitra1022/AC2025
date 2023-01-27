@@ -6,7 +6,7 @@
 // APPROACH: Count total vowels, use two pointers to exchange the vowels
 // Time Complexity: O(N)
 // Space Complexity: O(1)
-// where N, M is the size of the vectors given
+// where N is the size of the vectors given
 
 class Solution {
 public:
